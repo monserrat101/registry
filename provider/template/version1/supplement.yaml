@@ -1,0 +1,9 @@
+package-name: {{.PackageName}}
+source: {{.Source}}
+checksums:
+  linux_arm64: {{.CheckSumLinuxARM64}}
+  linux_amd64: {{.CheckSumLinuxAMD64}}
+  windows_arm64: {{.CheckSumWindowsARM64}}
+  windows_amd64: {{.CheckSumWindowsAMD64}}
+  darwin_arm64: {{.CheckSumDarwinARM64}}
+  darwin_amd64: {{.CheckSumDarwinAMD64}}

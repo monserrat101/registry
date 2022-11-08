@@ -1,0 +1,6 @@
+name: {{.ProviderName}} # provider name
+latest-version: {{.LatestVersion}} # provider latest version
+latest-updated: {{.LatestUpdated}} # provider latest updated
+introduction: {{.Introduction}} # provider introduction
+versions: # provider versions
+  - {{.ProviderVersion}}
