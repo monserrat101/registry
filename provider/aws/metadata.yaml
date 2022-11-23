@@ -1,9 +1,10 @@
 name: aws # provider name
-latest-version: v0.0.4 # provider latest version
-latest-updated: 2022-11-16 # provider latest updated
+latest-version: v0.0.5 # provider latest version
+latest-updated: 2022-11-23 # provider latest updated
 introduction: A Selefra provider for Amazon Web Services (AWS). # provider introduction
 versions: # provider versions
   - v0.0.1
   - v0.0.2
   - v0.0.3
   - v0.0.4
+  - v0.0.5
