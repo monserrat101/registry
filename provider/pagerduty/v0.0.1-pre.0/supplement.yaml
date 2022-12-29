@@ -1,0 +1,9 @@
+package-name: selefra-provider-pagerduty
+source: https://github.com/selefra/selefra-provider-pagerduty
+checksums:
+  linux_arm64: 3942293c28d0e36700b12fab22d5e141f6bddf96d0f2f7b1f9d93fbe8ab8f868
+  linux_amd64: ac636962c54aba443ac323eaee2f97f7abdbcddfdb41d7569f5cc7dbd9be38d7
+  windows_arm64: 51399fc5696854880e5a272ea71e674e8ea7a7b0b17d179a08052423e6e1b589
+  windows_amd64: c74ab892965e98f0c5c89696d399eb51e53d8c8b5e40355e321fdfd54ae8f6f7
+  darwin_arm64: 78ca5202b82f3d3851d613ae299733429cf06c8538837967255eaebb0fd0814f
+  darwin_amd64: 1fd4b11ab37bb40edd132807c9492133cc4f152e687eeb9cc240d5cf4cb8b59a
