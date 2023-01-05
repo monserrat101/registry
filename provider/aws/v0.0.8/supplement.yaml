@@ -1,0 +1,9 @@
+package-name: selefra-provider-aws
+source: https://github.com/selefra/selefra-provider-aws
+checksums:
+  linux_arm64: 779e0d23541f274daf3d91fba977bc29ebf26e1379452572cb7a41caddcb0ea2
+  linux_amd64: d7f03b4e52619f6a4c405b3fa2414a16bf848402722a03a148782fa9182f199c
+  windows_arm64: 783cb1494ad5c9bad19e0fbe268d013b51262e5805e354a52fb422c58f31e2dc
+  windows_amd64: f556380a70ff3b618b575a488daa29751d769159813f9a2f206f28883f70b1c1
+  darwin_arm64: d5a7ea3e8da5dd8b81c0b4bc27e273218b581f1c6d317d2436e82729fd028d16
+  darwin_amd64: 701ecd49dae385f929cdd514d97cadbcfa05adf654c731f4babe1011444bd525
