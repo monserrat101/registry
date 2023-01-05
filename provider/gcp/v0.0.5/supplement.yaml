@@ -1,0 +1,9 @@
+package-name: selefra-provider-gcp
+source: https://github.com/selefra/selefra-provider-gcp
+checksums:
+  linux_arm64: 31a424a9cf148ef747ad7bbe3db3b1017de7c05f48b4e853a7ec403af6ceb760
+  linux_amd64: f22f4345737819097f8645b6a43465e703d97a462e25515a5b084034151e0c6c
+  windows_arm64: 9f06e5cda93fe99e64a082add57182bc568e85535cdf5abe0fe7a5d6e8580c7c
+  windows_amd64: 3e7722d3e02556e54ce8757c29a61cea96f176ca00fbd5c682f536684b090574
+  darwin_arm64: 0fc956a71533ebb95963db5b94dde830d2cfd7b948a8ef8c08619de03438101f
+  darwin_amd64: 21a3fe7f287b70b30d0ffe651c6e725c3b58eeffbd30be6a03f3bd417c17dfa8

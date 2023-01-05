@@ -1,7 +1,8 @@
 name: gcp # provider name
-latest-version: v0.0.2 # provider latest version
-latest-updated: 2022-11-29 # provider latest updated
+latest-version: v0.0.5 # provider latest version
+latest-updated: 2023-01-05 # provider latest updated
 introduction: A Selefra provider for Amazon Web Services (gcp). # provider introduction
 versions: # provider versions
   - v0.0.1
   - v0.0.2
+  - v0.0.5
