@@ -1,6 +1,6 @@
 name: k8s # provider name
-latest-version: v0.0.5 # provider latest version
-latest-updated: 2023-01-05 # provider latest updated
+latest-version: v0.0.6 # provider latest version
+latest-updated: 2023-01-09 # provider latest updated
 introduction: A Selefra provider for Amazon Web Services (k8s). # provider introduction
 versions: # provider versions
   - v0.0.1
@@ -8,3 +8,4 @@ versions: # provider versions
   - v0.0.3
   - v0.0.4
   - v0.0.5
+  - v0.0.6
