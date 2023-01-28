@@ -1,6 +1,6 @@
 name: alicloud # provider name
-latest-version: v0.0.12 # provider latest version
-latest-updated: 2023-01-05 # provider latest updated
+latest-version: v0.0.14 # provider latest version
+latest-updated: 2023-01-28 # provider latest updated
 introduction: A Selefra provider for Amazon Web Services (alicloud). # provider introduction
 versions: # provider versions
   - v0.0.1
@@ -13,3 +13,4 @@ versions: # provider versions
   - v0.0.10
   - v0.0.11
   - v0.0.12
+  - v0.0.14
