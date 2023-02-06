@@ -1,7 +1,8 @@
 name: azure # provider name
-latest-version: v0.0.4 # provider latest version
-latest-updated: 2023-01-05 # provider latest updated
+latest-version: v0.0.5 # provider latest version
+latest-updated: 2023-02-06 # provider latest updated
 introduction: A Selefra provider for Amazon Web Services (azure). # provider introduction
 versions: # provider versions
   - v0.0.1
   - v0.0.4
+  - v0.0.5
