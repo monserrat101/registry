@@ -1,0 +1,9 @@
+package-name: selefra-provider-k8s
+source: https://github.com/selefra/selefra-provider-k8s
+checksums:
+  linux_arm64: 1d4b06f5ced71a18f10c7d0d983590afa28a092df0db1225086a4cff6567011e
+  linux_amd64: 673fb6edad02549adcc55d27d0ed7a141247e169733bbbf6ce6c6ca7f5019597
+  windows_arm64: e3dba13e264ca2b63afc04edb5e093a6dab0880c8da8fbb68d9862f936574931
+  windows_amd64: 8c5c06da74ecb8cae046f0ca3e8fdee6a7c116f3c269d7259a76435dfa189468
+  darwin_arm64: 77ece793163fecd6da73f4d40f0b18f5431ae7181648fb1b0c5ce9d95fdbbc16
+  darwin_amd64: 4de157d6e7eca7f5630c5ea2b2a2d681cbf4fad90843e9ab378fa6ed7e008703

@@ -1,0 +1,9 @@
+package-name: selefra-provider-azure
+source: https://github.com/selefra/selefra-provider-azure
+checksums:
+  linux_arm64: dd42f5b7377bebd502979d243f8ae5174633a2c3dd4c7bd67b4e153235e8895e
+  linux_amd64: e1eb564edc8acd2f770ee0392a3dd1ad32d6826ff79810d757058c26a60b3e89
+  windows_arm64: 5a59b3709bbb7f1014467a44fee8b152b23ed5f88654a56846e7b87f3d472285
+  windows_amd64: cb3953fc4638f183a4efa5e2bda52484b26bcc20c6ddfe3334726b33f7a989b6
+  darwin_arm64: b6d3d82444e4093bc90abdee1aa3006ad55f5b21b23a087e100e472bed5829b2
+  darwin_amd64: 5186ef52a6304272798bb4fb6c891a37b776748a193feeb40e7254aeceb803e2

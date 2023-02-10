@@ -1,0 +1,9 @@
+package-name: selefra-provider-alicloud
+source: https://github.com/selefra/selefra-provider-alicloud
+checksums:
+  linux_arm64: 94a570067a9824e5cb1e94a79cb9ed654e7486864c8e162bf892d78a13ac53ed
+  linux_amd64: cf40d34bb3acb6246a8a5c4455df2c6b12845aec358622f33052ba55082cda03
+  windows_arm64: 3fcbf15b701ff271065b25eb0dda6974162c0b31e24e37346fa61d0b631941e7
+  windows_amd64: 79133c9adea255ae22279a35f98f9454232581b056d37fdb94612c666461c1d4
+  darwin_arm64: bc987be65baca724ceaab31a7847a90684ca612fe20ef5a9da83f5e452146eda
+  darwin_amd64: 5f4a1da3c46fe804440f25e20d829456ae0923c45fccaf5216bc17e42498aac7
